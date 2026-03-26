@@ -1,4 +1,3 @@
-📋 Estrutura COMPLETA (já pronta pra você usar)
 📌 1. Regras de Negócio (mínimo 5)
 
 Exemplo (já pode usar):
